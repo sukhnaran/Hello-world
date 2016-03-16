@@ -1,2 +1,4 @@
 # Hoell-world
-Just another reporsitory
+Ердийн архив
+
+Сайн байцгаана уу? Миний ертөнцөд тавтай морил...
